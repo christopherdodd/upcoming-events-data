@@ -1,0 +1,859 @@
+{
+  "version": 1,
+  "updated": "2026-09-29T12:31:10Z",
+  "events": [
+    {
+      "id": "2026-09-26-ufc-fight-night-rosas-jr-vs-barcelos",
+      "category": "ufc",
+      "sport": "UFC",
+      "title": "UFC Fight Night: Rosas Jr. vs Barcelos",
+      "venue": "Meta Apex, Las Vegas",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "2026-09-27-south-africa-vs-australia-2nd-odi",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Australia — 2nd ODI",
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "start": "2026-09-27T08:00:00Z"
+    },
+    {
+      "id": "2026-09-27-india-vs-west-indies-1st-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs West Indies — 1st ODI",
+      "venue": "Greenfield Stadium, Thiruvananthapuram",
+      "start": "2026-09-27T08:30:00Z"
+    },
+    {
+      "id": "2026-09-27-england-vs-sri-lanka-3rd-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "England vs Sri Lanka — 3rd ODI",
+      "venue": "The Kia Oval, London",
+      "start": "2026-09-27T09:30:00Z"
+    },
+    {
+      "id": "2026-09-27-wallabies-vs-springboks",
+      "category": "wallabies",
+      "sport": "Rugby Union",
+      "title": "Wallabies vs Springboks",
+      "venue": "Optus Stadium, Perth",
+      "start": "2026-09-27T09:30:00Z"
+    },
+    {
+      "id": "2026-09-29-socceroos-vs-brazil-intl-friendly",
+      "category": "socceroos",
+      "sport": "Soccer",
+      "title": "Socceroos vs Brazil — Intl Friendly",
+      "venue": "Suncorp Stadium, Brisbane",
+      "start": "2026-09-29T10:00:00Z"
+    },
+    {
+      "id": "2026-09-30-india-vs-west-indies-2nd-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs West Indies — 2nd ODI",
+      "venue": "ACA Stadium, Guwahati",
+      "start": "2026-09-30T08:30:00Z"
+    },
+    {
+      "id": "2026-09-30-south-africa-vs-australia-3rd-odi",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Australia — 3rd ODI",
+      "venue": "NWC Oval, Potchefstroom",
+      "start": "2026-09-30T11:30:00Z"
+    },
+    {
+      "id": "2026-10-03-india-vs-west-indies-3rd-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs West Indies — 3rd ODI",
+      "venue": "Maharaja Yadavindra Singh Stadium, Mullanpur",
+      "start": "2026-10-03T08:30:00Z"
+    },
+    {
+      "id": "2026-10-03-ufc-332-silva-vs-wang",
+      "category": "ufc",
+      "sport": "UFC",
+      "title": "UFC 332: Silva vs Wang",
+      "venue": "Delta Center, Salt Lake City",
+      "date": "2026-10-03"
+    },
+    {
+      "id": "2026-10-06-india-vs-west-indies-1st-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs West Indies — 1st T20I",
+      "venue": "Ekana Stadium, Lucknow",
+      "start": "2026-10-06T13:30:00Z"
+    },
+    {
+      "id": "2026-10-09-south-africa-vs-australia-1st-test",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Australia — 1st Test",
+      "venue": "Kingsmead, Durban",
+      "start": "2026-10-09T07:30:00Z",
+      "end": "2026-10-13T07:30:00Z"
+    },
+    {
+      "id": "2026-10-09-india-vs-west-indies-2nd-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs West Indies — 2nd T20I",
+      "venue": "JSCA Stadium, Ranchi",
+      "start": "2026-10-09T13:30:00Z"
+    },
+    {
+      "id": "2026-10-10-all-blacks-vs-wallabies-bledisloe-cup",
+      "category": "wallabies",
+      "sport": "Rugby Union",
+      "title": "All Blacks vs Wallabies — Bledisloe Cup",
+      "venue": "Eden Park, Auckland",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "2026-10-10-ufc-fight-night-allen-vs-duncan",
+      "category": "ufc",
+      "sport": "UFC",
+      "title": "UFC Fight Night: Allen vs Duncan",
+      "venue": "Meta Apex, Las Vegas",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "2026-10-11-india-vs-west-indies-3rd-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs West Indies — 3rd T20I",
+      "venue": "Holkar Stadium, Indore",
+      "start": "2026-10-11T13:30:00Z"
+    },
+    {
+      "id": "2026-10-14-india-vs-west-indies-4th-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs West Indies — 4th T20I",
+      "venue": "Rajiv Gandhi Stadium, Hyderabad",
+      "start": "2026-10-14T13:30:00Z"
+    },
+    {
+      "id": "2026-10-15-kangaroos-vs-kiwis-rlwc",
+      "category": "rugby-league",
+      "sport": "Rugby League",
+      "title": "Kangaroos vs Kiwis — RLWC",
+      "venue": "Allianz Stadium, Sydney",
+      "start": "2026-10-15T09:05:00Z"
+    },
+    {
+      "id": "2026-10-16-pfl-chicago-carmouche-vs-bishop-2",
+      "category": "mma",
+      "sport": "MMA",
+      "title": "PFL Chicago: Carmouche vs Bishop 2",
+      "venue": "Wintrust Arena, Chicago",
+      "date": "2026-10-16"
+    },
+    {
+      "id": "2026-10-17-england-vs-tonga-rlwc",
+      "category": "rugby-league",
+      "sport": "Rugby League",
+      "title": "England vs Tonga — RLWC",
+      "venue": "HBF Park, Perth",
+      "start": "2026-10-17T09:05:00Z"
+    },
+    {
+      "id": "2026-10-17-daniel-dubois-vs-fabio-wardley-2-wbo-heavyweight",
+      "category": "boxing",
+      "sport": "Boxing",
+      "title": "Daniel Dubois vs Fabio Wardley 2 — WBO Heavyweight",
+      "venue": "The O2 Arena, London",
+      "date": "2026-10-17"
+    },
+    {
+      "id": "2026-10-17-wallabies-vs-all-blacks-bledisloe-cup",
+      "category": "wallabies",
+      "sport": "Rugby Union",
+      "title": "Wallabies vs All Blacks — Bledisloe Cup",
+      "venue": "Accor Stadium, Sydney",
+      "date": "2026-10-17"
+    },
+    {
+      "id": "2026-10-17-ufc-fight-night-buckley-vs-malott",
+      "category": "ufc",
+      "sport": "UFC",
+      "title": "UFC Fight Night: Buckley vs Malott",
+      "venue": "Rogers Place, Edmonton",
+      "date": "2026-10-17"
+    },
+    {
+      "id": "2026-10-17-one-samurai-4",
+      "category": "mma",
+      "sport": "MMA",
+      "title": "ONE Samurai 4",
+      "venue": "Ariake Arena, Tokyo",
+      "date": "2026-10-17"
+    },
+    {
+      "id": "2026-10-17-bkfc-95",
+      "category": "bare-knuckle",
+      "sport": "Bare Knuckle",
+      "title": "BKFC 95",
+      "venue": "Prudential Center, Newark",
+      "date": "2026-10-17"
+    },
+    {
+      "id": "2026-10-17-india-vs-west-indies-5th-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs West Indies — 5th T20I",
+      "venue": "M. Chinnaswamy Stadium, Bengaluru",
+      "start": "2026-10-17T13:30:00Z"
+    },
+    {
+      "id": "2026-10-18-south-africa-vs-australia-2nd-test",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Australia — 2nd Test",
+      "venue": "St George's Park, Gqeberha",
+      "start": "2026-10-18T08:00:00Z",
+      "end": "2026-10-22T08:00:00Z"
+    },
+    {
+      "id": "2026-10-20-pakistan-vs-england-tri-series-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "Pakistan vs England — Tri-Series ODI",
+      "venue": "Rawalpindi Cricket Stadium",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "2026-10-22-new-zealand-vs-india-1st-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 1st T20I",
+      "venue": "Hagley Oval, Christchurch",
+      "start": "2026-10-22T07:00:00Z"
+    },
+    {
+      "id": "2026-10-22-england-vs-sri-lanka-tri-series-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "England vs Sri Lanka — Tri-Series ODI",
+      "venue": "Rawalpindi Cricket Stadium",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "2026-10-24-england-vs-france-rlwc",
+      "category": "rugby-league",
+      "sport": "Rugby League",
+      "title": "England vs France — RLWC",
+      "venue": "HBF Park, Perth",
+      "start": "2026-10-24T06:35:00Z"
+    },
+    {
+      "id": "2026-10-24-new-zealand-vs-india-2nd-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 2nd T20I",
+      "venue": "Hagley Oval, Christchurch",
+      "start": "2026-10-24T07:00:00Z"
+    },
+    {
+      "id": "2026-10-24-dalton-smith-vs-alberto-puello-wbc-super-lightweight",
+      "category": "boxing",
+      "sport": "Boxing",
+      "title": "Dalton Smith vs Alberto Puello — WBC Super-Lightweight",
+      "venue": "Utilita Arena, Sheffield",
+      "date": "2026-10-24"
+    },
+    {
+      "id": "2026-10-24-ufc-333-volkanovski-vs-evloev",
+      "category": "ufc",
+      "sport": "UFC",
+      "title": "UFC 333: Volkanovski vs Evloev",
+      "venue": "Etihad Arena, Abu Dhabi",
+      "date": "2026-10-24"
+    },
+    {
+      "id": "2026-10-25-kiwis-vs-cook-islands-rlwc",
+      "category": "rugby-league",
+      "sport": "Rugby League",
+      "title": "Kiwis vs Cook Islands — RLWC",
+      "venue": "One NZ Stadium, Christchurch",
+      "start": "2026-10-25T05:05:00Z"
+    },
+    {
+      "id": "2026-10-25-kangaroos-vs-fiji-rlwc",
+      "category": "rugby-league",
+      "sport": "Rugby League",
+      "title": "Kangaroos vs Fiji — RLWC",
+      "venue": "Suncorp Stadium, Brisbane",
+      "start": "2026-10-25T09:05:00Z"
+    },
+    {
+      "id": "2026-10-27-new-zealand-vs-india-3rd-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 3rd T20I",
+      "venue": "Sky Stadium, Wellington",
+      "start": "2026-10-27T07:00:00Z"
+    },
+    {
+      "id": "2026-10-27-south-africa-vs-australia-3rd-test",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Australia — 3rd Test",
+      "venue": "Newlands Cricket Ground, Cape Town",
+      "start": "2026-10-27T08:30:00Z",
+      "end": "2026-10-31T08:30:00Z"
+    },
+    {
+      "id": "2026-10-27-pakistan-vs-england-tri-series-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "Pakistan vs England — Tri-Series ODI",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-10-27"
+    },
+    {
+      "id": "2026-10-29-england-vs-sri-lanka-tri-series-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "England vs Sri Lanka — Tri-Series ODI",
+      "venue": "Gaddafi Stadium, Lahore",
+      "date": "2026-10-29"
+    },
+    {
+      "id": "2026-10-30-new-zealand-vs-india-4th-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 4th T20I",
+      "venue": "Eden Park, Auckland",
+      "start": "2026-10-30T07:00:00Z"
+    },
+    {
+      "id": "2026-10-30-england-vs-png-rlwc",
+      "category": "rugby-league",
+      "sport": "Rugby League",
+      "title": "England vs PNG — RLWC",
+      "venue": "WIN Stadium, Wollongong",
+      "start": "2026-10-30T09:05:00Z"
+    },
+    {
+      "id": "2026-10-31-kiwis-vs-fiji-rlwc",
+      "category": "rugby-league",
+      "sport": "Rugby League",
+      "title": "Kiwis vs Fiji — RLWC",
+      "venue": "Cbus Super Stadium, Gold Coast",
+      "start": "2026-10-31T04:45:00Z"
+    },
+    {
+      "id": "2026-10-31-kangaroos-vs-cook-islands-rlwc",
+      "category": "rugby-league",
+      "sport": "Rugby League",
+      "title": "Kangaroos vs Cook Islands — RLWC",
+      "venue": "Queensland Country Bank Stadium, Townsville",
+      "start": "2026-10-31T09:05:00Z"
+    },
+    {
+      "id": "2026-10-31-christian-mbilli-vs-canelo-alvarez-wbc-super-middleweight",
+      "category": "boxing",
+      "sport": "Boxing",
+      "title": "Christian Mbilli vs Canelo Álvarez — WBC Super-Middleweight",
+      "venue": "Riyadh, Saudi Arabia",
+      "date": "2026-10-31"
+    },
+    {
+      "id": "2026-10-31-ufc-fight-night-moicano-vs-nolan",
+      "category": "ufc",
+      "sport": "UFC",
+      "title": "UFC Fight Night: Moicano vs Nolan",
+      "venue": "Meta Apex, Las Vegas",
+      "date": "2026-10-31"
+    },
+    {
+      "id": "2026-11-01-new-zealand-vs-india-5th-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 5th T20I",
+      "venue": "Seddon Park, Hamilton",
+      "start": "2026-11-01T07:00:00Z"
+    },
+    {
+      "id": "2026-11-03-melbourne-cup",
+      "category": "major",
+      "sport": "Horse Racing",
+      "title": "Melbourne Cup",
+      "venue": "Flemington Racecourse, Melbourne",
+      "start": "2026-11-03T04:00:00Z"
+    },
+    {
+      "id": "2026-11-04-new-zealand-vs-india-1st-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 1st ODI",
+      "venue": "Eden Park, Auckland",
+      "start": "2026-11-04T02:00:00Z"
+    },
+    {
+      "id": "2026-11-07-new-zealand-vs-india-2nd-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 2nd ODI",
+      "venue": "Sky Stadium, Wellington",
+      "start": "2026-11-07T02:00:00Z"
+    },
+    {
+      "id": "2026-11-07-rlwc-semi-final-1",
+      "category": "rugby-league",
+      "sport": "Rugby League",
+      "title": "RLWC Semi-Final 1",
+      "venue": "McDonald Jones Stadium, Newcastle",
+      "start": "2026-11-07T09:05:00Z"
+    },
+    {
+      "id": "2026-11-07-italy-vs-springboks-nations-championship",
+      "category": "sa-nz-rugby",
+      "sport": "Rugby Union",
+      "title": "Italy vs Springboks — Nations Championship",
+      "venue": "Turin, Italy",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "2026-11-07-scotland-vs-all-blacks-nations-championship",
+      "category": "sa-nz-rugby",
+      "sport": "Rugby Union",
+      "title": "Scotland vs All Blacks — Nations Championship",
+      "venue": "Murrayfield, Edinburgh",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "2026-11-07-ufc-fight-night-bonfim-vs-brady",
+      "category": "ufc",
+      "sport": "UFC",
+      "title": "UFC Fight Night: Bonfim vs Brady",
+      "venue": "Meta Apex, Las Vegas",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "2026-11-07-bkfc-glasgow",
+      "category": "bare-knuckle",
+      "sport": "Bare Knuckle",
+      "title": "BKFC Glasgow",
+      "venue": "OVO Hydro, Glasgow",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "2026-11-08-rlwc-semi-final-2",
+      "category": "rugby-league",
+      "sport": "Rugby League",
+      "title": "RLWC Semi-Final 2",
+      "venue": "Allianz Stadium, Sydney",
+      "start": "2026-11-08T09:05:00Z"
+    },
+    {
+      "id": "2026-11-08-england-vs-wallabies-nations-championship",
+      "category": "wallabies",
+      "sport": "Rugby Union",
+      "title": "England vs Wallabies — Nations Championship",
+      "venue": "Allianz Stadium, Twickenham",
+      "start": "2026-11-08T15:10:00Z"
+    },
+    {
+      "id": "2026-11-10-new-zealand-vs-india-3rd-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 3rd ODI",
+      "venue": "Seddon Park, Hamilton",
+      "start": "2026-11-10T02:00:00Z"
+    },
+    {
+      "id": "2026-11-13-new-zealand-vs-india-4th-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 4th ODI",
+      "venue": "Bay Oval, Tauranga",
+      "start": "2026-11-13T02:00:00Z"
+    },
+    {
+      "id": "2026-11-13-australia-vs-england-1st-odi",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs England — 1st ODI",
+      "venue": "Perth Stadium, Perth",
+      "start": "2026-11-13T03:30:00Z"
+    },
+    {
+      "id": "2026-11-13-france-vs-springboks-nations-championship",
+      "category": "sa-nz-rugby",
+      "sport": "Rugby Union",
+      "title": "France vs Springboks — Nations Championship",
+      "venue": "Stade de France, Paris",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "2026-11-14-wales-vs-all-blacks-nations-championship",
+      "category": "sa-nz-rugby",
+      "sport": "Rugby Union",
+      "title": "Wales vs All Blacks — Nations Championship",
+      "venue": "Principality Stadium, Cardiff",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-ufc-334-gane-vs-hokit",
+      "category": "ufc",
+      "sport": "UFC",
+      "title": "UFC 334: Gane vs Hokit",
+      "venue": "Madison Square Garden, New York",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-pfl-dubai-nemkov-vs-bilostenniy",
+      "category": "mma",
+      "sport": "MMA",
+      "title": "PFL Dubai: Nemkov vs Bilostenniy",
+      "venue": "Coca-Cola Arena, Dubai",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "2026-11-14-qatar-vs-socceroos-intl-friendly",
+      "category": "socceroos",
+      "sport": "Soccer",
+      "title": "Qatar vs Socceroos — Intl Friendly",
+      "venue": "Doha, Qatar",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "2026-11-15-new-zealand-vs-india-5th-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 5th ODI",
+      "venue": "Bay Oval, Tauranga",
+      "start": "2026-11-15T02:00:00Z"
+    },
+    {
+      "id": "2026-11-15-australia-vs-england-2nd-odi",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs England — 2nd ODI",
+      "venue": "Adelaide Oval, Adelaide",
+      "start": "2026-11-15T03:30:00Z"
+    },
+    {
+      "id": "2026-11-15-rugby-league-world-cup-final",
+      "category": "rugby-league",
+      "sport": "Rugby League",
+      "title": "Rugby League World Cup Final",
+      "venue": "Suncorp Stadium, Brisbane",
+      "start": "2026-11-15T08:35:00Z"
+    },
+    {
+      "id": "2026-11-15-south-africa-vs-bangladesh-1st-test",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Bangladesh — 1st Test",
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "date": "2026-11-15",
+      "endDate": "2026-11-19"
+    },
+    {
+      "id": "2026-11-15-scotland-vs-wallabies-nations-championship",
+      "category": "wallabies",
+      "sport": "Rugby Union",
+      "title": "Scotland vs Wallabies — Nations Championship",
+      "venue": "Murrayfield, Edinburgh",
+      "start": "2026-11-15T15:10:00Z"
+    },
+    {
+      "id": "2026-11-18-australia-vs-england-3rd-odi",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs England — 3rd ODI",
+      "venue": "Bellerive Oval, Hobart",
+      "start": "2026-11-18T03:30:00Z"
+    },
+    {
+      "id": "2026-11-18-jordan-vs-socceroos-intl-friendly",
+      "category": "socceroos",
+      "sport": "Soccer",
+      "title": "Jordan vs Socceroos — Intl Friendly",
+      "venue": "Amman, Jordan",
+      "date": "2026-11-18"
+    },
+    {
+      "id": "2026-11-19-new-zealand-vs-india-1st-test",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 1st Test",
+      "venue": "Basin Reserve, Wellington",
+      "date": "2026-11-19",
+      "endDate": "2026-11-23"
+    },
+    {
+      "id": "2026-11-21-australia-vs-england-1st-t20i",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs England — 1st T20I",
+      "venue": "MCG, Melbourne",
+      "start": "2026-11-21T08:15:00Z"
+    },
+    {
+      "id": "2026-11-21-ireland-vs-springboks-nations-championship",
+      "category": "sa-nz-rugby",
+      "sport": "Rugby Union",
+      "title": "Ireland vs Springboks — Nations Championship",
+      "venue": "Aviva Stadium, Dublin",
+      "date": "2026-11-21"
+    },
+    {
+      "id": "2026-11-21-england-vs-all-blacks-nations-championship",
+      "category": "sa-nz-rugby",
+      "sport": "Rugby Union",
+      "title": "England vs All Blacks — Nations Championship",
+      "venue": "Allianz Stadium, Twickenham",
+      "date": "2026-11-21"
+    },
+    {
+      "id": "2026-11-21-ufc-fight-night-qatar",
+      "category": "ufc",
+      "sport": "UFC",
+      "title": "UFC Fight Night: Qatar",
+      "venue": "Ali Bin Hamad al-Attiyah Arena, Al Rayyan",
+      "date": "2026-11-21"
+    },
+    {
+      "id": "2026-11-21-wales-vs-wallabies-nations-championship",
+      "category": "wallabies",
+      "sport": "Rugby Union",
+      "title": "Wales vs Wallabies — Nations Championship",
+      "venue": "Principality Stadium, Cardiff",
+      "start": "2026-11-21T20:10:00Z"
+    },
+    {
+      "id": "2026-11-23-south-africa-vs-bangladesh-2nd-test",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Bangladesh — 2nd Test",
+      "venue": "SuperSport Park, Centurion",
+      "date": "2026-11-23",
+      "endDate": "2026-11-27"
+    },
+    {
+      "id": "2026-11-24-australia-vs-england-2nd-t20i",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs England — 2nd T20I",
+      "venue": "Gold Coast Stadium, Carrara",
+      "start": "2026-11-24T08:15:00Z"
+    },
+    {
+      "id": "2026-11-27-australia-vs-england-3rd-t20i",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs England — 3rd T20I",
+      "venue": "The Gabba, Brisbane",
+      "start": "2026-11-27T08:15:00Z"
+    },
+    {
+      "id": "2026-11-27-new-zealand-vs-india-2nd-test",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "New Zealand vs India — 2nd Test",
+      "venue": "Hagley Oval, Christchurch",
+      "date": "2026-11-27",
+      "endDate": "2026-12-01"
+    },
+    {
+      "id": "2026-11-29-australia-vs-england-4th-t20i",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs England — 4th T20I",
+      "venue": "SCG, Sydney",
+      "start": "2026-11-29T08:15:00Z"
+    },
+    {
+      "id": "2026-12-01-south-africa-vs-bangladesh-1st-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Bangladesh — 1st ODI",
+      "venue": "Buffalo Park, East London",
+      "start": "2026-12-01T11:30:00Z"
+    },
+    {
+      "id": "2026-12-02-australia-vs-england-5th-t20i",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs England — 5th T20I",
+      "venue": "Manuka Oval, Canberra",
+      "start": "2026-12-02T08:15:00Z"
+    },
+    {
+      "id": "2026-12-04-south-africa-vs-bangladesh-2nd-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Bangladesh — 2nd ODI",
+      "venue": "St George's Park, Gqeberha",
+      "start": "2026-12-04T11:30:00Z"
+    },
+    {
+      "id": "2026-12-07-south-africa-vs-bangladesh-3rd-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Bangladesh — 3rd ODI",
+      "venue": "Newlands Cricket Ground, Cape Town",
+      "start": "2026-12-07T11:30:00Z"
+    },
+    {
+      "id": "2026-12-09-australia-vs-new-zealand-1st-test",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs New Zealand — 1st Test",
+      "venue": "Perth Stadium, Perth",
+      "start": "2026-12-09T02:20:00Z",
+      "end": "2026-12-13T02:20:00Z"
+    },
+    {
+      "id": "2026-12-10-south-africa-vs-bangladesh-1st-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Bangladesh — 1st T20I",
+      "venue": "De Beers Diamond Oval, Kimberley",
+      "start": "2026-12-10T16:00:00Z"
+    },
+    {
+      "id": "2026-12-11-bkfc-hollywood",
+      "category": "bare-knuckle",
+      "sport": "Bare Knuckle",
+      "title": "BKFC Hollywood",
+      "venue": "Hard Rock Live, Hollywood FL",
+      "date": "2026-12-11"
+    },
+    {
+      "id": "2026-12-12-ufc-335-strickland-vs-imavov",
+      "category": "ufc",
+      "sport": "UFC",
+      "title": "UFC 335: Strickland vs Imavov",
+      "venue": "T-Mobile Arena, Las Vegas",
+      "date": "2026-12-12"
+    },
+    {
+      "id": "2026-12-12-south-africa-vs-bangladesh-2nd-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Bangladesh — 2nd T20I",
+      "venue": "Willowmoore Park, Benoni",
+      "start": "2026-12-12T12:30:00Z"
+    },
+    {
+      "id": "2026-12-13-india-vs-sri-lanka-1st-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs Sri Lanka — 1st ODI",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "start": "2026-12-13T08:30:00Z"
+    },
+    {
+      "id": "2026-12-13-south-africa-vs-bangladesh-3rd-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs Bangladesh — 3rd T20I",
+      "venue": "SuperSport Park, Centurion",
+      "start": "2026-12-13T12:30:00Z"
+    },
+    {
+      "id": "2026-12-16-india-vs-sri-lanka-2nd-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs Sri Lanka — 2nd ODI",
+      "venue": "M. Chinnaswamy Stadium, Bengaluru",
+      "start": "2026-12-16T08:30:00Z"
+    },
+    {
+      "id": "2026-12-17-australia-vs-new-zealand-2nd-test",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs New Zealand — 2nd Test",
+      "venue": "Adelaide Oval, Adelaide",
+      "start": "2026-12-17T00:30:00Z",
+      "end": "2026-12-21T00:30:00Z"
+    },
+    {
+      "id": "2026-12-17-south-africa-vs-england-1st-test",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs England — 1st Test",
+      "venue": "The Wanderers Stadium, Johannesburg",
+      "date": "2026-12-17",
+      "endDate": "2026-12-21"
+    },
+    {
+      "id": "2026-12-19-india-vs-sri-lanka-3rd-odi",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs Sri Lanka — 3rd ODI",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "start": "2026-12-19T08:30:00Z"
+    },
+    {
+      "id": "2026-12-19-pfl-lyon-lapilus-vs-mckee",
+      "category": "mma",
+      "sport": "MMA",
+      "title": "PFL Lyon: Lapilus vs McKee",
+      "venue": "LDLC Arena, Lyon",
+      "date": "2026-12-19"
+    },
+    {
+      "id": "2026-12-22-india-vs-sri-lanka-1st-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs Sri Lanka — 1st T20I",
+      "venue": "Niranjan Shah Stadium, Rajkot",
+      "start": "2026-12-22T13:30:00Z"
+    },
+    {
+      "id": "2026-12-24-india-vs-sri-lanka-2nd-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs Sri Lanka — 2nd T20I",
+      "venue": "Barabati Stadium, Cuttack",
+      "start": "2026-12-24T13:30:00Z"
+    },
+    {
+      "id": "2026-12-25-australia-vs-new-zealand-3rd-test-boxing-day",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs New Zealand — 3rd Test (Boxing Day)",
+      "venue": "MCG, Melbourne",
+      "start": "2026-12-25T23:30:00Z",
+      "end": "2026-12-29T23:30:00Z"
+    },
+    {
+      "id": "2026-12-26-south-africa-vs-england-2nd-test",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "South Africa vs England — 2nd Test",
+      "venue": "SuperSport Park, Centurion",
+      "date": "2026-12-26",
+      "endDate": "2026-12-30"
+    },
+    {
+      "id": "2026-12-27-india-vs-sri-lanka-3rd-t20i",
+      "category": "intl-cricket",
+      "sport": "Cricket",
+      "title": "India vs Sri Lanka — 3rd T20I",
+      "venue": "MCA Stadium, Pune",
+      "start": "2026-12-27T13:30:00Z"
+    },
+    {
+      "id": "2027-01-03-australia-vs-new-zealand-4th-test",
+      "category": "aus-cricket",
+      "sport": "Cricket",
+      "title": "Australia vs New Zealand — 4th Test",
+      "venue": "SCG, Sydney",
+      "start": "2027-01-03T23:30:00Z",
+      "end": "2027-01-07T23:30:00Z"
+    }
+  ]
+}
