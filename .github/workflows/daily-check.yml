@@ -1,0 +1,54 @@
+name: Daily fixture check
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # 6:00 AM WITA (UTC+8)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency: fixture-check
+
+jobs:
+  cricket:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compare CricketData with fixtures.json
+        id: check
+        env:
+          CRICKETDATA_API_KEY: ${{ secrets.CRICKETDATA_API_KEY }}
+        run: python3 scripts/check_cricket.py report.md
+
+      # One open issue holds the latest report. Editing it is silent, so post a comment
+      # (which emails you) only when the findings change.
+      - name: Update the report issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          FINDINGS: ${{ steps.check.outputs.findings }}
+        run: |
+          title="Fixture check: cricket"
+          existing=$(gh issue list --state open --search "\"$title\" in:title" --json number,body --jq '.[0]')
+          number=$(echo "$existing" | jq -r '.number // empty')
+          # Compare findings only (first line holds the run timestamp).
+          old=$(echo "$existing" | jq -r '.body // ""' | tail -n +2)
+          new=$(tail -n +2 report.md)
+
+          if [ "$FINDINGS" = "0" ]; then
+            if [ -n "$number" ]; then
+              gh issue close "$number" --comment "All clear: nothing new or different in today's check."
+            fi
+            exit 0
+          fi
+
+          if [ -z "$number" ]; then
+            gh issue create --title "$title" --body-file report.md
+          elif [ "$old" != "$new" ]; then
+            gh issue edit "$number" --body-file report.md
+            gh issue comment "$number" --body "The report changed ($FINDINGS items to review). See the updated description above."
+          else
+            gh issue edit "$number" --body-file report.md
+          fi
